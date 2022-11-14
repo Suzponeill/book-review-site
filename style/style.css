@@ -1,0 +1,21 @@
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: burlywood;
+    color: maroon;
+    font-size: 20px;
+    border-style: outset;
+}
+
+body {
+    background-color: rgb(61, 143, 214);
+}
+
+h3 {color: bisque;}
+
+
+a:hover {
+color: red;
+background-color: transparent;
+text-decoration: underline;
+}
